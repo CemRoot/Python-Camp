@@ -1,7 +1,7 @@
 """PEP257 ve PEP8 standarlarınada fonsk docstring tanımı."""
 
 
-def toplama(x: int, y: int) -> int:
+def toplama(x: int, y: int):
     """[summary]
 
     Args:
@@ -9,6 +9,7 @@ def toplama(x: int, y: int) -> int:
         y (int): [description]
 
     Returns:
-        int: [description]
-    """    
+        [type]: [description]
+    """
+
     return x + y
