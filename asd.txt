@@ -1,3 +1,7 @@
+Merhaba 1234
+Örnek veri
 Python
 Merhaba
 3.9.4
+Son Veri Ekleme...
+Son Veri Ekleme...
