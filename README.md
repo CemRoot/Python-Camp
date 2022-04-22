@@ -1,2 +1,1 @@
-# burak-hoca
- Python Dersleri
+Python Examples
